@@ -1,4 +1,3 @@
 #! /bin/bash
 
-go build .
- 
+echo "build!"
