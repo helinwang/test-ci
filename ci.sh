@@ -3,3 +3,4 @@
 go build .
 ls
 echo 123
+1222
