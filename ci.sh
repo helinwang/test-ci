@@ -2,4 +2,3 @@
 
 go build .
 ls
-echo 123
